@@ -5,7 +5,7 @@ This repository contains coursework completed for **DSML 4220: Deep Learning**, 
 This section contains deep learning labs completed throughout the course.
 
 - **Lab 1: Working with Text Data (lab1_text_data.ipynb):**  
-  Built a simple sentiment classifier on the Airline Tweets dataset. Covered NLP preprocessing including stemming, lemmatization, and text vectorization.
+  Built a simple sentiment classifier on the Airline Tweets dataset. Covered NLP preprocessing, including stemming, lemmatization, and text vectorization.
 
 - **Lab 2: MLP for Classifying Yelp Reviews (lab2_yelp_reviews.ipynb):**  
   Built a PyTorch MLP for sentiment classification on 50,000+ Yelp reviews, with custom Vocabulary and Vectorizer classes for preprocessing.
@@ -14,7 +14,7 @@ This section contains deep learning labs completed throughout the course.
   Applied a CNN to predict the nationality of a surname across 18 classes using character-level tokenization, comparing performance against an MLP baseline.
 
 - **Lab 4: Model Tuning with Weights & Biases (lab4_model_tuning_w_b.ipynb):**  
-  Used W&B sweeps to systematically experiment with hyperparameters — optimizer type, learning rate, batch size, and dropout — on the surname classification task.
+  Used W&B sweeps to systematically experiment with hyperparameters, optimizer type, learning rate, batch size, and dropout on the surname classification task.
 
 - **Lab 5: Implementing LeNet with MNIST (lab5_lenet_w_mnist.ipynb):**  
   Implemented the LeNet CNN from scratch in PyTorch on the MNIST dataset, using TensorBoard for experiment tracking and Captum for model interpretability.
