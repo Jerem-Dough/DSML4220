@@ -1,4 +1,4 @@
-# DSML 4220 - Deep Learning
+# Deep Learning
 This repository contains coursework completed for **DSML 4220: Deep Learning**, a course focused on building and evaluating deep learning models for NLP and computer vision tasks. Topics include text vectorization, MLPs, CNNs, RNNs, word embeddings, and hyperparameter tuning.
 
 ## Labs
