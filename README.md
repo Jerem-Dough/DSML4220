@@ -28,4 +28,7 @@ This section contains deep learning labs completed throughout the course.
 - **Lab 8: Generating Surnames with a GRU RNN (lab8_rnn_surname_generation.ipynb):**  
   Trained a GRU-based RNN to generate novel surnames conditioned on nationality, shifting focus from classification to sequence generation.
 
+- **Lab 9: Fine-tuning GPT-2 with LoRA (lab9_finetuning_gpt2.ipynb):**  
+  Fine-tuned GPT-2 on Hemingway's "The Sun Also Rises" using LoRA, comparing full model vs. parameter-efficient training and evaluating text generation with Diverse Beam Search.
+  
 Each lab is implemented in **Python** with **PyTorch**.
