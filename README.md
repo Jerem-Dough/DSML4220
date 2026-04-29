@@ -30,5 +30,8 @@ This section contains deep learning labs completed throughout the course.
 
 - **Lab 9: Fine-tuning GPT-2 with LoRA (lab9_finetuning_gpt2.ipynb):**  
   Fine-tuned GPT-2 on Hemingway's "The Sun Also Rises" using LoRA, comparing full model vs. parameter-efficient training and evaluating text generation with Diverse Beam Search.
+
+- **Lab 10: A Simple Agent with Tools (lab10_agents_and_tools.ipynb):**  
+  Built a tool-calling agent using Ollama and Llama 3.2, implementing arithmetic tools (addition and multiplication) with proper type casting, and equipping the agent with web search tools to retrieve current news and sports information based on prompt context.
   
 Each lab is implemented in **Python** with **PyTorch**.
